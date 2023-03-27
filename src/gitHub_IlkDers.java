@@ -3,5 +3,7 @@ public class gitHub_IlkDers {
         System.out.println("Hello Github");
         System.out.println("====================");
         System.out.println("have a nice day" );
+
+        System.out.println("gitadd-commit-push");
     }
 }
