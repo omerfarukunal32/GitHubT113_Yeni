@@ -1,4 +1,4 @@
-public class gitHub_IlkDers {
+public class G01_gitHub_IlkDers {
     public static void main(String[] args) {
         System.out.println("Hello Github");
         System.out.println("====================");
